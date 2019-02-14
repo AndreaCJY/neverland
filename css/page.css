@@ -1,0 +1,24 @@
+.head
+{
+  position: relative;
+   left: 20px;
+   text-align: center;
+   font-size: 60px;
+   font-weight: bold;
+   color: #000000;
+}
+.botton{
+position: relative;
+  font-size: 40px;
+  color: #8A0886;
+  right: -1020px;
+  top: 350px;
+}
+.small
+{
+position: relative;
+   font-size: 20px;
+  
+   right: 5px;
+   top:10px;
+}
