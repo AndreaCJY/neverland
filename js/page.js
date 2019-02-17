@@ -1,1 +1,1 @@
-var botton = document.getElementByClassName('botton');
+var botton = document.getElementByClassName('botton')[0];

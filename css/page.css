@@ -1,7 +1,7 @@
 .head
 {
   position: relative;
-   left: 20px;
+   left: -5px;
    text-align: center;
    font-size: 60px;
    font-weight: bold;
@@ -21,4 +21,11 @@ position: relative;
   
    right: 5px;
    top:10px;
+}
+.score
+{
+	position: relative;
+   font-size: 30px;
+   left:990px;
+   top:-260px;
 }
